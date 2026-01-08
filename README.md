@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nlibenn
 - 👀 I’m interested in creating AI + human in-the-loop systems that automate high-value tasks. 
-- 🌱 I’m currently learning advanced AI algorithms and human-computer interaction principles. 
+- 🌱 I’m currently learning advanced AI human-computer interaction principles. 
 - 💞️ I’m looking to collaborate on projects that optimize human-machine collaboration.
 
 <!---
